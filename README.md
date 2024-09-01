@@ -55,7 +55,7 @@ This project is an image processing system that efficiently processes image data
    npm run dev
    \`\`\`
 
-## API Endpoints
+## API Endpoints ([Documentation](https://docs.google.com/document/d/1PC6ou-a119tnF1yLId_liaUjYRjodVL8lnsCilWj9Cg/edit?usp=drive_link)) || ([Low-Level Design (LLD)](https://drive.google.com/file/d/1ryHe9-uoLMBa0fcpkABVpBKkE4ikImIe/view?usp=drive_link))
 
 ### 1. **Upload CSV**
 
