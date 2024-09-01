@@ -139,6 +139,7 @@ A Postman collection is available for testing the API. You can import the collec
 
 ## Author - Yash Raj
 ## Connect 🔭
+- **Email  :** yashr3037@gmail.com
 - **LinkedIn  :**
  [https://linkedin.com/in/yash-raj-06710020a](https://linkedin.com/in/yash-raj-06710020a)
  - **Github  :**
