@@ -65,6 +65,8 @@ This project is an image processing system that efficiently processes image data
   - \`Content-Type\`: \`multipart/form-data\`
   - \`file\`: The CSV file to be processed.
   - \`webhookUrl\` (optional): The URL to be notified once processing is complete.
+  - **Dummy CSV file:** Use this CSV file [Download](https://drive.google.com/file/d/1x06MdI5ob0yNG9vUoEXFfZqKW9da-FBa/edit)
+    
 - **Response:**
 
   \`\`\`json
