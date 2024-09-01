@@ -135,7 +135,7 @@ Images are processed asynchronously using a worker that:
 
 A Postman collection is available for testing the API. You can import the collection using the following link:
 
-[Postman Collection Link](https://api.postman.com/collections/23877736-f5e69130-4ef0-4d83-85b1-ab93481d9889)
+[Postman Collection Link]([https://api.postman.com/collections/23877736-f5e69130-4ef0-4d83-85b1-ab93481d9889](https://drive.google.com/file/d/1DN_4DRLTZOVP8HNd0ezn24N0dEa2-bVx/view?usp=sharing)
 
 ## Author - Yash Raj
 ## Connect 🔭
