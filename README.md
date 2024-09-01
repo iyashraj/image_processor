@@ -15,7 +15,7 @@ This project is an image processing system that efficiently processes image data
 
 ## Tech Stack
 
-- **Backend**: Node.js, Express.js
+- **Backend**: Node.js (20.17.0), Express.js
 - **Database**: MongoDB (Mongoose)
 - **Image Processing**: Sharp
 - **HTTP Requests**: Axios
@@ -28,7 +28,7 @@ This project is an image processing system that efficiently processes image data
 1. **Clone the repository:**
 
    \`\`\`bash
-   git clone https://github.com/iyashraj/image-processor.git
+   git clone https://github.com/iyashraj/image_processor.git
    cd image-processor
    \`\`\`
 
