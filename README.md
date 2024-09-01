@@ -55,7 +55,7 @@ This project is an image processing system that efficiently processes image data
    npm run dev
    \`\`\`
 
-## API Endpoints ([Documentation](https://docs.google.com/document/d/1PC6ou-a119tnF1yLId_liaUjYRjodVL8lnsCilWj9Cg/edit?usp=drive_link)) || ([Low-Level Design (LLD)](https://drive.google.com/file/d/1ryHe9-uoLMBa0fcpkABVpBKkE4ikImIe/view?usp=drive_link)
+## API Endpoints ([Documentation](https://docs.google.com/document/d/1a5dYuNadwl5GBeHCcrAoZDU3zIA8O3SItthewq2Bc8U/edit?usp=sharing)) || ([Low-Level Design (LLD)](https://drive.google.com/file/d/1ryHe9-uoLMBa0fcpkABVpBKkE4ikImIe/view?usp=drive_link)
 
 ### 1. **Upload CSV**
 
@@ -135,7 +135,7 @@ Images are processed asynchronously using a worker that:
 
 A Postman collection is available for testing the API. You can import the collection using the following link:
 
-[Postman Collection Link]([https://api.postman.com/collections/23877736-f5e69130-4ef0-4d83-85b1-ab93481d9889](https://drive.google.com/file/d/1DN_4DRLTZOVP8HNd0ezn24N0dEa2-bVx/view?usp=sharing)
+[Postman Collection Link](https://drive.google.com/file/d/1DN_4DRLTZOVP8HNd0ezn24N0dEa2-bVx/view?usp=sharing)
 
 ## Author - Yash Raj
 ## Connect 🔭
